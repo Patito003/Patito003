@@ -1,7 +1,6 @@
-### Olá! 👋 Sou Desenvolvedor de Software
+### Olá! 👋 Sou o Paulo Vitor
 
-Estudante do 7º período de Ciência da Computação (previsão de conclusão em Nov/2027) com base sólida construída desde o ensino técnico. Atuo profissionalmente no desenvolvimento de aplicações escaláveis, combinando vivência prática na construção de APIs e interfaces web modernas.
-
+Atuo profissionalmente no desenvolvimento de aplicações escaláveis, combinando vivência prática na construção de APIs e interfaces web modernas.
 Meu foco é o desenvolvimento de back-end robusto e a aplicação de boas práticas de engenharia, como princípios SOLID, Arquitetura em Camadas (Layered Architecture) e conteinerização.
 
 **🛠 Tecnologias e Habilidades:**
@@ -10,7 +9,24 @@ Meu foco é o desenvolvimento de back-end robusto e a aplicação de boas práti
 *   **Bancos de Dados:** PostgreSQL, SQL
 *   **Arquitetura & Infra:** APIs RESTful, Docker, Design Patterns
 
-**🚀 Sobre minha trajetória:**
-Tenho vivência corporativa atuando diretamente na manutenção e criação de regras de negócio complexas para sistemas back-end. Anteriormente, adquiri experiência full-cycle construindo interfaces reativas com Vue e arquitetando serviços com NestJS. Utilizo o GitHub como laboratório para refatorar projetos, testar padrões arquiteturais e evoluir a qualidade do meu código.
-    
-    
+novo
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
+          
+*   velho
+
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
